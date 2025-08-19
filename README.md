@@ -1,4 +1,3 @@
-"""# Network-based Analysis of Acute Myeloid Leukemia  
 ### Integrating Large Language Models for Enhanced Module Annotation  
 
 **Authors:** Justin Seby¹, Ioannis Siavelis¹, Janne Lehtiö¹  
